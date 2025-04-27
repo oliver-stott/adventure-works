@@ -63,7 +63,7 @@ The Adventure Works dataset is a fictional corporate database created by Microso
 
 ## Project Screenshots
 ![Adventure WOrks](adventure_works.png)
-![Filter Pane](filter_pane.jpg)
+![Filter Pane](filter-pane.jpg)
 ![Geo Map](geo_map.jpg)
 ![Product Detail](product_detail.jpg)
 ![Customer Detail](customer_detail.jpg)
