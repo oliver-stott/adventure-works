@@ -25,6 +25,13 @@ The Adventure Works dataset is a fictional corporate database created by Microso
 
 ---
 
+## How to Use
+1. Download the `.pbix` file from the repository.
+2. Open in Power BI Desktop.
+3. Explore interactive visualizations and filters to discover insights.
+
+---
+
 ## Key Metrics & KPIs
 - Total Sales Revenue
 - Total Quantity Sold
@@ -69,10 +76,3 @@ The Adventure Works dataset is a fictional corporate database created by Microso
 ![Customer Detail](customer_detail.jpg)
 ![Decomposition Tree](decomp_tree.jpg)
 ![Data Dictionary](data_dictionary.jpg)
-
----
-
-## How to Use
-1. Download the `.pbix` file from the repository.
-2. Open in Power BI Desktop.
-3. Explore interactive visualizations and filters to discover insights.
